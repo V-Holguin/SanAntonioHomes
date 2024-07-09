@@ -1,7 +1,7 @@
 # San Antonio Homes
 
 - Used an online tool to scrape live data from Zillow, pulling 800 current listings in San Antonio.
-- Wrote a Python script to load the .csv into a MySQL Workbench session [HERE](https://github.com/V-Holguin/SanAntonioHomes/blob/main/LoadScrapedDataIntoMySQL.py)
+- Wrote a Python script to load the data into a MySQL Workbench session [HERE](https://github.com/V-Holguin/SanAntonioHomes/blob/main/LoadScrapedDataIntoMySQL.py)
 - Cleaned, reorganized, and formatted the data writing SQL queries [HERE](https://github.com/V-Holguin/SanAntonioHomes/blob/main/WrangleScrapedData.sql)
 - Downloaded Zillow's historical data for 1 bedroom homes from their site.
 - Wrote a Python script to load in the data, clean, organize, transpose, and export the data [HERE](https://github.com/V-Holguin/SanAntonioHomes/blob/main/OneBedroomDataCleaning.py)
